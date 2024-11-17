@@ -20,6 +20,6 @@ End the program
         result=np.linalg.solve(A,B)
         print(result)
 ## Output:
-![image](https://github.com/user-attachments/assets/3d1eb8b9-4d0a-43ee-b3d4-d4757722c64c)
+![image](https://github.com/user-attachments/assets/7ddcac6a-096d-4cf7-a764-f8b8ed077fe1)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
